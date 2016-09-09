@@ -5,13 +5,17 @@
 
 #player1{
   background-color: red;
+  position: relative;
+  left: 0%;
 }
 
 #player2{
   background-color: blue;
+  position: relative;
+  left: 0%;
 }
 
-.finishline{
+.main-container{
   border-right: 4px solid black;
   margin-right: 5px;
 }
