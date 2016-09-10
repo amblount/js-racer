@@ -5,17 +5,20 @@
 
 #player1{
   background-color: red;
-  position: relative;
-  left: 0%;
+  position: absolute;;
+  left: 1px;
+  top: 10px;
 }
 
 #player2{
   background-color: blue;
-  position: relative;
-  left: 0%;
+  position: absolute;
+  left: 1px;
+  top: 200px;
 }
 
 .main-container{
+  position: relative;;
   border-right: 4px solid black;
   margin-right: 5px;
 }
